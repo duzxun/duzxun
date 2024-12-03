@@ -7,8 +7,7 @@ I'm a recent graduate of the University of Toronto, where I earned a Bachelor of
 ## :computer: Programming Languages
 - Python
 - C/C++
-- MATLAB
-- Simulink
+- MATLAB/Simulink
 - Verilog
 - ARM Assembly
 
