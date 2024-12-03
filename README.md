@@ -25,6 +25,8 @@ I'm a recent graduate of the University of Toronto, where I earned a Bachelor of
 ## :mag_right: Other Skills
 - Electrical & Biomedical Signal Processing 
 - Microwave & RF Engineering
+- Analog Electronics
+- Machine Learning 
 
 ## 💼  Professional Experience
 - Lead Data Coordinator at the Kidney Health and Research Group (KHERG) at UHN 
