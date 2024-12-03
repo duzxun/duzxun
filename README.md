@@ -27,8 +27,8 @@ I'm a recent graduate of the University of Toronto, where I earned a Bachelor of
 - Microwave & RF Engineering
 
 ## 💼  Professional Experience
-- Lead Data Coordinator at the Kidney Health and Research Group (KHERG) at UHN
-- Machine Learning Intern at Gradient Robotics
+- Lead Data Coordinator at the Kidney Health and Research Group (KHERG) at UHN (12 month PEY Co-op 2022-2023)
+- Machine Learning Intern at Gradient Robotics (4 month internship 2021)
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/d-uzun/)
