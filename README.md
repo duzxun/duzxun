@@ -1,4 +1,4 @@
-# Hi, I'm Deniz! 🌟
+# Hi, I'm Deniz! 👋
 
 Welcome to my GitHub profile! 
 
