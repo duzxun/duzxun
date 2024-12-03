@@ -7,14 +7,20 @@ I'm a recent graduate of the University of Toronto, where I earned a Bachelor of
 ## :computer: Programming Languages
 - Python
 - C/C++
-- MATLAB/Simulink
-- Verilog/ARM Assembly
+- MATLAB
+- Simulink
+- Verilog
+- ARM Assembly
 
 ## :hammer_and_wrench: Tools & Frameworks
-- TensorFlow & OpenCV
-- LTSpice & ModelSim
+- TensorFlow
+- OpenCV
+- LTSpice
+- ModelSim
 - Vector Network Analyzers (VNA)
-- Three.js & Blender
+- Three.js
+- Blender
+- Figma
 
 ## :mag_right: Other Skills
 - Electrical & Biomedical Signal Processing 
