@@ -34,3 +34,7 @@ I'm a recent graduate of the University of Toronto, where I earned a Bachelor of
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/d-uzun/)
 - [My Portfolio](https://d-uzun.wixsite.com/deniz-uzun)
+
+## 🌟 Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=duzxun&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duzxun&show_icons=true&theme=radical)
