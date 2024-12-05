@@ -1,6 +1,6 @@
 # Hi, I'm Deniz! 👋
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub! 
 
 I'm a recent graduate of the University of Toronto, where I earned a Bachelor of Applied Science in Electrical Engineering with a minor in Bioengineering. 
 
