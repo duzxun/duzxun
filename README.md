@@ -37,4 +37,3 @@ I'm a recent graduate of the University of Toronto, where I earned a Bachelor of
 
 ## 🌟 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duzxun&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=duzxun&theme=radical)
