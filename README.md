@@ -16,7 +16,6 @@ I'm a recent graduate of the University of Toronto, where I earned a Bachelor of
 - OpenCV
 - LTSpice
 - ModelSim
-- Vector Network Analyzers (VNA)
 - Three.js
 - Blender
 - Figma
